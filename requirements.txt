@@ -1,6 +1,10 @@
 fastapi
 uvicorn
 tensorflow==2.20.0
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0966bc3 (Fix TensorFlow version for Render build)
 pillow
 numpy
 requests
